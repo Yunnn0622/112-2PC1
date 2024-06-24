@@ -15,8 +15,7 @@
 
 ## 說明程式與內容
 
-
-
+![alt text](<Git Graph - 112-2HW1 - Visual Studio Code 2024_3_6 下午 09_43_38.png>)
 
 ## 個人認為完成作業須具備觀念
-
+本人覺得要完成這項作業要會切換分支還有把它們合併起來，並且還要會git clone、git add、git commit、還有最後把他們git push到github上面，
